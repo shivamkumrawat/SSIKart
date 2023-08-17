@@ -122,7 +122,6 @@ celerybeat.pid
 # Environments
 env
 venv31/
-my_project/
 env/
 venv/
 ENV/
